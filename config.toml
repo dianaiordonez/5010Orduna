@@ -72,7 +72,7 @@ enableEmoji = true
 [Params.Contact]
   # [str[]] i18n keys used to display in an additional select box.
   #   Comment out if you want to disable it.
-  select = ["generic", "coop", "business", "project"]
+  # select = ["generic", "coop", "business", "project"]
 
 
 [[menu.main]]
