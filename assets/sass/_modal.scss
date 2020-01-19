@@ -36,7 +36,7 @@
   position: relative;
   width: 80%;
   max-width: 1000px;
-  max-height: 80vh;
+  max-height: 100vh;
   margin: auto;
   border-radius: 9px;
   background-color: $smoke;
@@ -66,17 +66,18 @@
 
   img {
     max-height: 100%;
+    align-items: center;
   }
 }
 
 .modal-content {
-  max-height: calc(80vh - 20vh);
+  max-height: calc(100vh);
   padding: 10px;
   overflow-y: auto;
 }
 
 .term-content {
-  max-height: calc(80vh - 20vh);
+  max-height: calc(100vh);
   overflow-y: auto;
 }
 

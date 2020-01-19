@@ -42,3 +42,4 @@ terminal:
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: false
 ---
+![](/images/livingarea.jpg)

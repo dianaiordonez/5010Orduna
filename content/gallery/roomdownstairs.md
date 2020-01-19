@@ -18,10 +18,10 @@ color: "#fff"
 # - github: Fetch repo data using GitHub API
 type: "normal"
 # [str] Link to view the project.
-linkView: "roomdownstairs.jpg"
+linkView: ""
 # [str] Link to show the project's code.
 # If ommited with type 'github', will use 'html_url' field from GitHub API.
-linkCode: "roomdownstairs.jpg"
+linkCode: ""
 # Configure 'github'-type specific options here:
 github:
     # [str] Repo is a combination of "{user_or_org}/{repository_name}", e.g. "kdevo/osprey-delight.
@@ -42,3 +42,4 @@ terminal:
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: false
 ---
+![](/images/roomdownstairs.jpg)

@@ -5,7 +5,7 @@ title: ""
 date: "2020-01-16T17:43:21-05:00"
 # [str] Gallery image file name. Image needs to be under 'images/'.
 # If ommited with type 'github', will attempt to fetch from '{repo_url}/.github/logo.png'.
-image: "backyard.JPG"
+image: "backyard.jpg"
 # [str] Alternatively, you can specify an absolute image URL (comment out the following line).
 # absImage: ""
 # [str] Provide alternative description.
@@ -42,3 +42,4 @@ terminal:
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: false
 ---
+![](/images/aereal.jpg)

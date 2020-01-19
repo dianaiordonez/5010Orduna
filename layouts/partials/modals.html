@@ -24,7 +24,7 @@
         <div class="modal-content"{{ if .Params.terminal.lines -}} hidden id="content-{{ $modalID }}" {{- end}}>
           <h2>{{ .Params.title }}</h2>
 
-          <!-- Content
+          <!-- Content-->
           <article class="entry-content">
             {{ if eq (len (trim .Content "\r\n" )) 0 -}}
               <p>{{ with $scratch.Get "repo" }}{{ .description }}{{ end }}</p>
@@ -35,7 +35,7 @@
                 {{ .Content }}
               {{- end }}
             {{- end }}
-          </article>-->
+          </article>
           <!-- Links-->
           <div class="row center-xs">
               {{ if .Params.linkView -}}
