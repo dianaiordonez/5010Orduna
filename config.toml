@@ -56,7 +56,7 @@ enableEmoji = true
   # [bool] Lazy loading of images with lazysizes (SEO-friendly).
   lazyloading = true
   # [str] Use Basin contact form.
-  ajaxBasin = "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
+  ajaxBasin = "https://usebasin.com/f/b097ffcf700d"
   googleTagManager = ""
   # [bool] Enable usage of your own 'assets/scss/_custom.css'.
   customCSS = true
@@ -72,7 +72,7 @@ enableEmoji = true
 [Params.Contact]
   # [str[]] i18n keys used to display in an additional select box.
   #   Comment out if you want to disable it.
-  select = ["generic", "coop", "business", "project"]
+  # select = ["generic", "coop", "business", "project"]
 
 
 [[menu.main]]
