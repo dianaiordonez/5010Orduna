@@ -72,7 +72,7 @@ enableEmoji = true
 [Params.Contact]
   # [str[]] i18n keys used to display in an additional select box.
   #  Comment out if you want to disable it.
-select = ["Showing", "Information", "Call me",]
+select = ["showing", "information", "callme"]
 
 
 [[menu.main]]
