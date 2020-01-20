@@ -34,8 +34,8 @@ enableEmoji = true
 
 ## Social media links in footer:
 [Params.Social]
-  # [str] Link to your Twitter.
-  # twitter = "yourhomemiami"
+  # [] Link to your Twitter.
+  # twitter = "/yourhomemiami"
   # [str] Link to your LinkedIn.
   # linkedin = "dianaiordonez"
   # [str] Link to your GitHub.
