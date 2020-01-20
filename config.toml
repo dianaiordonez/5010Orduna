@@ -11,7 +11,7 @@ enableEmoji = true
 ## Generic theme parameters:
 [Params]
   author = ""
-  email = ""
+  email = "dianaiordonez@gmail.com"
   description = "Coral Gables Dutch Colonial for Sale"
   tagline = "5010 Orduna Dr. Coral Gables 33146"
   logoBig = "/images/dianabanner.png"
@@ -35,7 +35,7 @@ enableEmoji = true
 ## Social media links in footer:
 [Params.Social]
   # [str] Link to your Twitter.
-  twitter = "yourhomecoralgables"
+  twitter = "yourhomemiami"
   # [str] Link to your LinkedIn.
   linkedin = "dianaiordonez"
   # [str] Link to your GitHub.
@@ -45,7 +45,8 @@ enableEmoji = true
   # [str] Link to your Instagram.
   # instagram = ""
   # [str] Link to your StackOverflow.
-  stackoverflow = "dianaiordonez"
+  # stackoverflow = "dianaiordonez"
+  facebook = "diana.i.ordonez.sanchez"
 
 
 ## Theme features:
