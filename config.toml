@@ -71,8 +71,8 @@ enableEmoji = true
 ## Configure contact form:
 [Params.Contact]
   # [str[]] i18n keys used to display in an additional select box.
-  #   Comment out if you want to disable it.
-  # select = ["generic", "coop", "business", "project"]
+  #  Comment out if you want to disable it.
+select = ["Showing", "Information", "Call me",]
 
 
 [[menu.main]]
