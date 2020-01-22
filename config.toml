@@ -35,13 +35,13 @@ enableEmoji = true
 ## Social media links in footer:
 [Params.Social]
   # [] Link to your Twitter.
-  # twitter = "/yourhomemiami"
+  twitter = "https://twitter.com/yourhomemiami"
   # [str] Link to your LinkedIn.
-  # linkedin = "dianaiordonez"
+  linkedin = "https://www.linkedin.com/in/dianaiordonez"
   # [str] Link to your GitHub.
   # github = "dianaiordonez"
   # [str] Link to your Facebook.
-  # facebook = ""diana.i.ordonez.sanchez""
+   facebook = "https://www.facebook.com/diana.i.ordonez.sanchez"
   # [str] Link to your Instagram.
   # instagram = ""
   # [str] Link to your StackOverflow.
