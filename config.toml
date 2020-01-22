@@ -41,7 +41,7 @@ enableEmoji = true
   # [str] Link to your GitHub.
   # github = "dianaiordonez"
   # [str] Link to your Facebook.
-   facebook = "https://www.facebook.com/diana.i.ordonez.sanchez"
+  facebook = "https://www.facebook.com/diana.i.ordonez.sanchez"
   # [str] Link to your Instagram.
   # instagram = ""
   # [str] Link to your StackOverflow.
