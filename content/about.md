@@ -9,7 +9,6 @@ Beautiful 2 story "Dutch Colonial" home, lots of natural light, charming archite
 ## PROPERTY DETAILS
 |||
 |:-----|-----:|
-**Price**:|$1,029,000|
 **Price/SQFT**:| $421|
 **Bedrrooms**: |4|
 **Baths**: |3|
